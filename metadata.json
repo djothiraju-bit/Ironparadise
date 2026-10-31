@@ -1,0 +1,6 @@
+{
+  "name": "IP FITNESS",
+  "description": "Complete professional gym management mobile application with member portal, admin operations dashboard, Razorpay fee payments, and attendance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
